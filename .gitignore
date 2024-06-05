@@ -18,3 +18,4 @@ pack.bat
 gitcmd.bat
 logs
 poetry.lock
+.DS_Store

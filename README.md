@@ -174,7 +174,7 @@ https://github.com/jianchang512/ChatTTS-ui/assets/3378335/43370012-68c3-495f-a1b
 3. 创建虚拟环境 `python3 -m venv venv`
 4. 激活虚拟环境 `source ./venv/bin/activate`
 5. 安装依赖 `pip3 install -r requirements.txt`
-6. 安装torch `pip3 install torch==2.2.0 torchaudio==2.2.0`
+6. 安装torch `pip3 install 'torch==2.2.0' 'torchaudio==2.2.0'`
 7. 执行 `python3 app.py` 启动，将自动打开浏览器窗口，默认地址 `http://127.0.0.1:9966`  (注意：默认从 modelscope 魔塔下载模型，不可使用代理下载，请关闭代理)
 
 
